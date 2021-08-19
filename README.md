@@ -10,8 +10,8 @@
 
 #### Page 2
 
-![index page](Index.png)
+![index page](Page2.png)
 
 #### Page 3
 
-![index page](Index.png)
+![index page](Page3.png)
